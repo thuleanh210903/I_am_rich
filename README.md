@@ -1,4 +1,4 @@
-# i_am_rich
+# I Am rich
 
 A new Flutter project.
 
